@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ninjapipe",
+  "version": "0.1.0",
+  "description": "Unofficial community plugin for the NinjaPipe CRM API: search and read contacts, deals, products, budgets, projects, orders and lists, and create/update contacts. Requires NINJAPIPE_API_KEY in the environment.",
+  "author": { "name": "David OBrien" },
+  "license": "MIT",
+  "keywords": ["ninjapipe", "crm", "mcp", "contacts", "deals"]
+}
